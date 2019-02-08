@@ -1,5 +1,8 @@
-// Two-Dimensional Sierpinski Gasket       
-// Generated using randomly selected vertices and bisection
+// Cory Press
+// Maze
+// Creates a Maze of size n by first cutting the maze using a depth
+//	first search than drawing it by drawing each wall of each cell
+
 
 #include<vector>
 #include<iostream>
